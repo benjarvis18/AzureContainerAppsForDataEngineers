@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IngestApiData": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+az acr repository list --name acrcontainerappsdemo01 --output table

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Sensor]
+(
+	[SensorId] INT NOT NULL PRIMARY KEY,
+	[SensorName] VARCHAR(50) NOT NULL UNIQUE
+)
